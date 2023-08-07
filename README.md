@@ -5,36 +5,25 @@ Hospital Management System using MySQL, Php and Bootstrap
 Video Demo : [Hospital Management System - Youtube](https://www.youtube.com/watch?v=W2XGSM5i9P8)
 
 
-## Need to work on:
-
-1. Ability to accept the appointment by the doctor to acknowledge the patient that their appointment has been approved.
-2. User should not be allowed to register if he/she tries to provide the already registered email ID.
-3. The password should be encrypted and the password field shouldn't be displayed in the admin panel.
-4. Implementation of pagination for all the list view across the application.
-5. Bug fix - Bill payment receipt contains multiple record if the patient has associated with the same doctor multiple times.
-6. Addition of more fields in the prescription statement to make it more specific one.
-7. Addition of more details on payment - such as date of the payment made, amount paid, etc.
-8. Implementation of export button in admin module to export all details to an excel sheet.
-
 ## Prerequisites
-1. Install XAMPP web server
+1. Install WAMPP web server
 2. Any Editor (Preferably VS Code or Sublime Text)
 3. Any web browser with latest version
 
+
 ## Languages and Technologies used
 1. HTML5/CSS3
-2. JavaScript (to create dynamically updating content)
-3. Bootstrap (An HTML, CSS, and JS library)
-4. XAMPP (A web server by Apache Friends)
-5. Php
-6. MySQL (An RDBMS that uses SQL)
-7. TCPDF (to generate PDFs)
+2. Bootstrap
+3. Php
+4. MySql
+5. WAMPP (A web server by Apache Friends)
+
 
 ## Steps to run the project in your machine
-1. Download and install XAMPP in your machine
+1. Download and install WAMPP in your machine
 2. Clone or download the repository
-3. Extract all the files and move it to the 'htdocs' folder of your XAMPP directory.
-4. Start the Apache and Mysql in your XAMPP control panel.
+3. Extract all the files and move it to the 'www' folder of your WAMPP directory.
+4. Start the Apache and Mysql in your WAMPP control panel.
 5. Open your web browser and type 'localhost/phpmyadmin'
 6. In phpmyadmin page, create a new database from the left panel and name it as 'myhmsdb'
 7. Import the file 'myhmsdb.sql' inside your newly created database and click ok.

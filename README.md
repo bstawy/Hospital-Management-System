@@ -20,16 +20,11 @@ Video Demo : [Hospital Management System - Youtube](https://www.youtube.com/watc
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-1. HTML5/CSS3
-2. Bootstrap
-3. Php
-4. MySql
-5. WAMPP 
 
 ## Steps to run the project in your machine
-1. Download and install WAMPP in your machine
+1. Download and install WAMPP/XAMPP in your machine
 2. Clone or download the repository
-3. Extract all the files and move it to the 'www' folder of your WAMPP directory.
+3. Extract all the files and move it to the 'WAMPP/www' ## or 'XAMPP/htdocs'
 4. Start the Apache and Mysql in your WAMPP control panel.
 5. Open your web browser and type 'localhost/phpmyadmin'
 6. In phpmyadmin page, create a new database from the left panel and name it as 'hms'

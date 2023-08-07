@@ -1,24 +1,24 @@
-#Hospital Management System
+# Hospital Management System
 Hospital Management System using MySQL, Php and Bootstrap
 
 
 Video Demo : [Hospital Management System - Youtube](https://www.youtube.com/watch?v=W2XGSM5i9P8)
 
 
-##Prerequisites
+## Prerequisites
 1. Install WAMPP web server
 2. Any Editor (Preferably VS Code or Sublime Text)
 3. Any web browser with latest version
 
 
-##Languages and Technologies used
+## Languages and Technologies used
 1. HTML5/CSS3
 2. Bootstrap
 3. Php
 4. MySql
 5. WAMPP 
 
-##Steps to run the project in your machine
+## Steps to run the project in your machine
 1. Download and install WAMPP in your machine
 2. Clone or download the repository
 3. Extract all the files and move it to the 'www' folder of your WAMPP directory.

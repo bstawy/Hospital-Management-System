@@ -25,15 +25,13 @@ Video Demo : [Hospital Management System - Youtube](https://www.youtube.com/watc
 1. Download and install WAMPP/XAMPP in your machine
 2. Clone or download the repository
 3. Extract all the files and move it to the 'WAMPP/www' or 'XAMPP/htdocs'
-4. Start the Apache and Mysql in your WAMPP control panel.
+4. Start the Apache and Mysql in your WAMPP/XAMPP control panel.
 5. Open your web browser and type 'localhost/phpmyadmin'
 6. In phpmyadmin page, create a new database from the left panel and name it as 'hms'
 7. Import the file 'hms.sql' inside your newly created database and click ok.
 8. Open a new tab and type 'localhost/hms' in the url of your browser
 9. Hurray! That's it!
-      
-  
-<p align="center"><img src="https://user-images.githubusercontent.com/36665975/59350977-fcc68900-8d3a-11e9-9450-e5c478497caa.png"></img></p>
+
 
 ## GETTING INTO THE PROJECT:
 Hospital Management System in php and mysql. This system has a ‘Home’ page from where the patient, doctor & administrator can login into their accounts by toggling the tabs accordingly. Fig 1.1 shows the ‘Home’ page of our project.

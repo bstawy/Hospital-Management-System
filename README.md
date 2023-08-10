@@ -2,9 +2,6 @@
 Hospital Management System using MySQL, Php and Bootstrap
 
 
-Video Demo : [Hospital Management System - Youtube](https://www.youtube.com/watch?v=W2XGSM5i9P8)
-
-
 ## Prerequisites
 1. Install WAMPP web server
 2. Any Editor (Preferably VS Code or Sublime Text)
@@ -34,13 +31,15 @@ Video Demo : [Hospital Management System - Youtube](https://www.youtube.com/watc
 
 
 ## GETTING INTO THE PROJECT:
-Hospital Management System in php and mysql. This system has a ‘Home’ page from where the patient, doctor & administrator can login into their accounts by toggling the tabs accordingly. Fig 1.1 shows the ‘Home’ page of our project.
-
+Hospital Management System in php and mysql. This system has a ‘Home’ page from where the patient, doctor & administrator can login into their accounts by toggling the tabs accordingly.
 ![image](Screenshots/01_Home_page.png)
 
-![image](https://user-images.githubusercontent.com/36665975/66569676-ad2d8800-eb89-11e9-94e5-ea407622a1fe.png)
+'Apply Now' page allows new doctor to join hospital staff after fill required information.
+![image](Screenshots/02_Doctor_apply)
 
-'About Us' page (Fig 1.2)  allows us to get some more information about the quality and the services of the hospital.
+'Create Account' redirect user to page where a new patient make an account to be treated by hospital.
+![image](Screenshots/03_Patient_apply)
+
 
 ![image](https://user-images.githubusercontent.com/36665975/66569816-f4b41400-eb89-11e9-9377-d9ce53ded088.png)
 

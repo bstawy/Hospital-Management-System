@@ -1,10 +1,3 @@
-Ophthalmologist تخصص عيون
-Neurologist  تخصص أعصاب
-ENT    انف واذن وحنجره
-Dermatologist   جلديه
-Internist      باطنة
-Psychologist   نفسى
------------------------------
 admin:
   username: admin
   password: admin

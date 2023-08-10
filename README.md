@@ -35,9 +35,11 @@ Hospital Management System in php and mysql. This system has a ‘Home’ page f
 
 ![image](Screenshots/01_Home_page.png)
 
+
 'Apply Now' page allows new doctor to join hospital staff after fill required information.
 
 ![image](Screenshots/02_Doctor_apply.png)
+
 
 'Create Account' redirect user to page where a new patient make an account to be treated by hospital.
 
@@ -49,6 +51,7 @@ The ‘Home’ page consists of 3 modules:
 2. Doctor Module
 3. Patient Module
 
+
 ### Admin Module:
    
    &nbsp; &nbsp; &nbsp; This module is the heart of our project where an admin can see the list of all admins, doctors, patients and departments. In addition to the ability to add new or delete existed one. 
@@ -58,15 +61,25 @@ The ‘Home’ page consists of 3 modules:
 
 ![image](Screenshots/04_Admin_login.png)
 
+
 On clicking the ‘Login’ button, the admin will be redirected to his/her dashboard as shown in the following picture:
 
 ![image](Screenshots/07_Admin_dashboard.png)
 
+
 This module allows admin to perform five major operations:
 
-**1. View the list of all other admins:**
+**1. Update it's credentials:**
 
-  &nbsp; &nbsp; &nbsp; Admin can able to view all the admins registered. This includes the admins’ ID, Username. Admin can also delete them. 
+  &nbsp; &nbsp; &nbsp; Admin can change his username and password. 
+  
+  ![image](Screenshots/17_Admin_info.png)
+  
+
+**2. View list of all other admins:**
+
+  &nbsp; &nbsp; &nbsp; Admin can view all registered admins' info. 
+  This includes the admins’ ID, Username. Admin can also delete them. 
   
   ![image](Screenshots/08_Admins_preview.png)
   
@@ -77,11 +90,10 @@ This module allows admin to perform five major operations:
   
   ![image](https://user-images.githubusercontent.com/36665975/66571179-83c22b80-eb8c-11e9-8819-008cdd2b0c2e.png)
   
-**2. View the list of all doctors registered:**
+**3. View list of all registered doctors:**
 
-  &nbsp; &nbsp; &nbsp; Details of the doctors can also be viewed by the admin. This details include the Name of the doctor, Password, Email and Consultancy fees, shown in Fig 1.16. Searching for a doctor can be done by using the doctor’s Email ID in the search box.
-
-![image](https://user-images.githubusercontent.com/36665975/66571329-a5bbae00-eb8c-11e9-89be-ce1a9c73e01b.png)
+  &nbsp; &nbsp; &nbsp; Details of the doctors can also be viewed by the admin and the ability to remove doctors.
+![image](Screenshots/09_Doctors_preview.png)
 
 **3. View the Appointment lists:**
 

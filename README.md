@@ -32,13 +32,16 @@ Hospital Management System using MySQL, Php and Bootstrap
 
 ## GETTING INTO THE PROJECT:
 Hospital Management System in php and mysql. This system has a ‘Home’ page from where the patient, doctor & administrator can login into their accounts by toggling the tabs accordingly.
+
 ![image](Screenshots/01_Home_page.png)
 
 'Apply Now' page allows new doctor to join hospital staff after fill required information.
-![image](Screenshots/02_Doctor_apply)
+
+![image](Screenshots/02_Doctor_apply.png)
 
 'Create Account' redirect user to page where a new patient make an account to be treated by hospital.
-![image](Screenshots/03_Patient_apply)
+
+![image](Screenshots/03_Patient_apply.png)
 
 
 ![image](https://user-images.githubusercontent.com/36665975/66569816-f4b41400-eb89-11e9-9377-d9ce53ded088.png)

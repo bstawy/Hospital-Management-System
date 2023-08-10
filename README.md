@@ -114,7 +114,7 @@ Once the doctor clicking the ‘Login’ button, they will be redirected to thei
   ![image](Screenshots/11_Doctor_dashboard.png)
 
 
-This module allows admin to perform five major operations:
+This module allows doctor to perform two operations:
 
 **1. View his information and Update it's credentials:**
 
